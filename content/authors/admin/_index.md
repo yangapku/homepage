@@ -14,30 +14,30 @@ role: Master of Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
-- name: MOE Key Laboratory of Computational Linguistics
+- name: Institute of Computational Linguistics
   url: "http://klcl.pku.edu.cn/"
 - name: Peking University
-  url: "http://klcl.pku.edu.cn/"
+  url: "http://pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include discourse analysis, machine reading comprehension and question answering.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Discourse Analysis
+- Machine Reading Comprehension
+- Question Answering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Computer Science
+    institution: Peking University
+    year: 2017~now
+  - course: Double Major BSc in Computer Science
+    institution: Peking University
+    year: 2014~2017
+  - course: BSc in Life Science
+    institution: Peking University
+    year: 2013~2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,16 +46,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:yangan@pku.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=vO9FZekAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yangapku
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
