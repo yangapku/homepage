@@ -32,10 +32,10 @@ education:
   - course: Master in Computer Science
     institution: Peking University
     year: 2017~now
-  - course: Double Major BSc in Computer Science
+  - course: Double Major Bachelor in Computer Science
     institution: Peking University
     year: 2014~2017
-  - course: BSc in Life Science
+  - course: Bachelor in Life Science
     institution: Peking University
     year: 2013~2017
 
