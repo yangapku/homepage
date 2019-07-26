@@ -1,6 +1,6 @@
 ---
 # Display name
-name: An Yang
+name: An Yang (杨安)
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Natural Language Processing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: MOE Key Laboratory of Computational Linguistics
+  url: "http://klcl.pku.edu.cn/"
+- name: Peking University
+  url: "http://klcl.pku.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
